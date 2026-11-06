@@ -209,4 +209,4 @@ Habari is the complete free version, providing all features and updates included
 Ready to transform your blogging experience? Download Habari today and discover the simplicity and power of this amazing CMS!
 
 ---
-**Last updated:** 2026-11-05 22:34:05 UTC
+**Last updated:** 2026-11-06 02:58:50 UTC
